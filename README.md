@@ -30,11 +30,11 @@ Graveファイルに移動
 srcに格納されている「xxxx.html」をお好きなブラウザで開けば確認できます。
 
 # 本題:app_graveの説明
-## img_for_readmeファイル
+### img_for_readmeファイル
 readme用なので無視してください〜
-## imgファイル
+### imgファイル
 サイトに表示する画像を格納
-## srcファイル
+### srcファイル
 サイト用のhtmlファイルを格納
 - login.html
 ログインページ
