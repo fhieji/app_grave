@@ -34,10 +34,15 @@ srcに格納されている「xxxx.html」をお好きなブラウザで開け�
 readme用なので無視してください〜
 ## imgファイル
 サイトに表示する画像を格納
-## src
+## srcファイル
 サイト用のhtmlファイルを格納
-*login.html
+- login.html
 ログインページ
+- grave-top.html
+ログイン後のページイメージ
+- grave-list.html
+お墓の一覧ページ
+- grave-detail.html
 
 # ToDo
 404ページ作成
