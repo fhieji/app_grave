@@ -15,8 +15,10 @@ GitHubのアカウントを作成(面倒であれば後で大丈夫)
 以下コマンド例  　
 ドキュメントに移動  
 `$ cd Documents`  
-Graveファイルを作成
+Graveファイルを作成  
 `$ mkdir Grave`  
+Graveファイルに移動  
+`$ cd Grave` 
 レポジトリからファイルをダウンロード 
 `$ git clone XXXX`  
 
