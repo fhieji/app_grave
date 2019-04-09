@@ -18,10 +18,16 @@ GitHubのアカウントを作成(面倒であれば後で大丈夫)
 Graveファイルを作成  
 `$ mkdir Grave`  
 Graveファイルに移動  
-`$ cd Grave` 
-レポジトリからファイルをダウンロード 
+`$ cd Grave`  
+レポジトリからファイルをダウンロード  
 `$ git clone XXXX`  
+↑のXXXXは下記をコピー
+<img src="./img_for_readme/git1.png">
+<img src="./img_for_readme/git2.png">
 
+#ローカルで開く
+エクスプローラでドキュメント配下のGraveに移動
+srcに格納されている「xxxx.html」をお好きなブラウザで開けば確認できます。
 
 # ToDo
 404ページ作成
