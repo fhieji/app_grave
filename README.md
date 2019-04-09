@@ -43,7 +43,9 @@ readme用なので無視してください〜
 - grave-list.html
 お墓の一覧ページ
 - grave-detail.html
+お墓の詳細ページ
 
 # ToDo
+墓登録ページ
 404ページ作成
 デザインの刷新
